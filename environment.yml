@@ -1,5 +1,6 @@
 name: parcels_v4_10yr_event
 channels:
+  - https://repo.prefix.dev/parcels
   - conda-forge
 dependencies:
   - parcels >3.2
