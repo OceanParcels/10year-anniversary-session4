@@ -3,6 +3,7 @@ channels:
   - https://repo.prefix.dev/parcels
   - conda-forge
 dependencies:
+  - python =3.12
   - parcels >3.2
   - copernicusmarine >= 2
 
