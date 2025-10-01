@@ -4,7 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python =3.12
-  - parcels >3.2
+  - parcels = 4
   - copernicusmarine >= 2
 
   # Kernel workshop dependencies
